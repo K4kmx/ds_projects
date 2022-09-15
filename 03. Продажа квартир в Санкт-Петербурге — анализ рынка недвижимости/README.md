@@ -19,3 +19,7 @@ Python, Pandas, Matplotlib, исследовательский анализ да
 ## Ключевые слова
 
 обработка данных, histogram, boxplot, scattermatrix, категоризация, scatterplot,  фрод-мониторинг
+
+## Статус проекта
+
+Завершен
